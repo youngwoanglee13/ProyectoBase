@@ -1,0 +1,23 @@
+{
+  "name": "proyectobase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngwoanglee13/ProyectoBase.git"
+  },
+  "author": "Young Woang Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngwoanglee13/ProyectoBase/issues"
+  },
+  "homepage": "https://github.com/youngwoanglee13/ProyectoBase#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
